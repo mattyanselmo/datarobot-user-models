@@ -1,0 +1,15 @@
+dr-usertool>=0.5.18
+# PyYAML & drca are constrained by dr-usertool and its deps
+PyYAML>=3.11
+drca==0.2.42
+pytest
+pytest-runner
+pytest-xdist
+responses
+urllib3 >= 1.25.0
+datarobot>=2.27.0
+datarobot-bp-workshop==0.2.3
+requests >= 2.24.0
+scikit-learn==0.23.1
+sagemaker-scikit-learn-extension==1.1.0
+retry

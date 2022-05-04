@@ -1,0 +1,11 @@
+name: drum-transform-output-fail
+type: training
+targetType: transform
+typeSchema:
+  output_requirements:
+  - field: data_types
+    condition: EQUALS
+    value: CAT
+  - field: sparse
+    condition: EQUALS
+    value: NEVER

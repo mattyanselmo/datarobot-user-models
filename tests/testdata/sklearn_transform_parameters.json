@@ -1,0 +1,7 @@
+{
+  "seed": 5,
+  "kbins_n_bins": 4,
+  "kbins_strategy": "uniform",
+  "missing_values_strategy": 64.0,
+  "print_message": "unicode support 🚀"
+}
